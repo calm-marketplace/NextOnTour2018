@@ -26,77 +26,14 @@ with Ansible Galaxy (pull mode):
 
 6. Enter the Blueprint Name to **ansible-galaxy-<<yourName>> **
 
-7. Choose "calm" as your project
+7. Choose "calm" as your project and click **Upload **
 
-**Part 2: Your Entry Level Blueprint**
+**Part 2: Edit the blueprint**
 **************************************
 
-1. Navigate to the Blueprint ( |image2| ) tab
-2. Click on **Create Blueprint **
-3. Assign this Blueprint to the calm  Project
-4. Click on Proceed
+After the import of a blueprint all credentials are missing! This is needed to avoid that credentials will be exposed or captured.
 
- Welcome to the Blueprint Editor ! Let’s take a look at the interface
 
-|image3|
-
-In general, the Blueprint creation flow goes:
-
--  Create Object in Application Overview  or select an existing object
-   either from the workspace or the Overview panel
-
--  Configure the object in the configuration pane
-
--  Repeat for each object
-
--  Connect dependencies in the workspace
-
-There are 2 more buttons that are helpful to use while making a
-blueprint:
-
-|image4|
-
-Let’s get started by setting up the basics
-
-1. Update the Blueprint Name to **training-mysql-<<yourName>> **
-
-2. Click on Credentials ( |image5|) button, credentials are unique per
-   blueprint
-
-|image6|
-
-+-----------------------+---------------+
-| Name                  | root          |
-+-----------------------+---------------+
-| Username              | root          |
-+-----------------------+---------------+
-| Secret                | Password      |
-+-----------------------+---------------+
-| Password              | nutanix/4u    |
-+-----------------------+---------------+
-| Use as Default        | Checked       |
-+-----------------------+---------------+
-
-***note: Default checkbox is present only if you have more than one user
-
-Setting Variables
-
-At this step let’s set some variables up. It’s not necessary to do it at
-this point, however it will make our lives easier for the rest of the
-lab.
-
-To access variables click on the Default Application Profiles object in the application overview.
-You will find the Variable List in the Configuration Pane (on the right)
-
-Variables have 2 checkbox settings, **Secret** and **Runtime**. Normally
-variables are stored in plaintext and shown in the window here, the
-**Secret** setting changes that (perfect for passwords). **Runtime**
-specifies if this variable should be static (and only editable here) or
-should be able to be changed during the Launch Process.
-
-Variables can be referred to while configuring VMs using the
-**@@{variable\_name}@@** construct ­ Calm will evaluate and replace that
-string before sending it down to the VM
 
 |image7|
 
