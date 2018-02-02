@@ -35,7 +35,7 @@ After the import of a blueprint all credentials are missing! This is needed to a
 
 
 
-|image7|
+|image17|
 
 +----------------------+------------------------------------------------------+
 | **Variable Name **   | **Value **                                           |
