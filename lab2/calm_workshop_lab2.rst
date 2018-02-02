@@ -1,5 +1,5 @@
 **********************************************************
-**Introduction – Simple Integration with Ansible Galayxy**
+**Introduction – Simple Integration with Ansible Galaxy**
 **********************************************************
 
 .. contents::
