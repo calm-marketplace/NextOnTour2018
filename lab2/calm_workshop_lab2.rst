@@ -33,8 +33,7 @@ with Ansible Galaxy (pull mode):
 
 After the import of a blueprint all credentials are missing! This is needed to avoid that credentials will be exposed or captured.
 
-1. Download the private key: 
-
+1. Download the private key: https://github.com/calm-marketplace/NextOnTour2018/blob/master/lab2/id_calm_rsa
 
 |image17|
 
