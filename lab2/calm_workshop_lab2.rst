@@ -7,7 +7,7 @@
 Lab Overview
 ************
 
-Welcome to the Calm Hands-On-Lab - Simple Integration with Ansible Galayxy
+Welcome to the Calm Hands-On-Lab - Simple Integration with Ansible Galayxy.
 What we’re going to do here is to import a blueprint to showcase an integration
 with Ansible Galaxy (pull mode):
 
@@ -22,7 +22,7 @@ with Ansible Galaxy (pull mode):
 
 4. Navigate to the Blueprint ( |image2| ) tab
 
-5. Click on Im
+5. Click on **Upload Blueprint **
 
 **Part 2: Your Entry Level Blueprint**
 **************************************
