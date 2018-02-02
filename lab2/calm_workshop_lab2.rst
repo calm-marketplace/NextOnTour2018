@@ -24,6 +24,10 @@ with Ansible Galaxy (pull mode):
 
 5. Click on **Upload Blueprint **
 
+6. Enter the Blueprint Name to **ansible-galaxy-<<yourName>> **
+
+7. Choose "calm" as your project
+
 **Part 2: Your Entry Level Blueprint**
 **************************************
 
