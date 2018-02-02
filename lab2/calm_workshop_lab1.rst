@@ -20,15 +20,9 @@ with Ansible Galaxy (pull mode):
 
 3. Click on the Apps tab across the top of Prism
 
-Welcome to Calm! Upon accessing this page you will now notice a new
-ribbon along the left ­ this is used to navigate through Calm.
+4. Navigate to the Blueprint ( |image2| ) tab
 
-You are, by default, dropped into the Applications tab and can see all
-the instances of applications that have been launched from a blueprint.
-
-For now, let’s step through each tab:
-
-|image1|
+5. Click on Im
 
 **Part 2: Your Entry Level Blueprint**
 **************************************
