@@ -33,21 +33,10 @@ with Ansible Galaxy (pull mode):
 
 After the import of a blueprint all credentials are missing! This is needed to avoid that credentials will be exposed or captured.
 
+1. Download the private key: 
 
 
 |image17|
-
-+----------------------+------------------------------------------------------+
-| **Variable Name **   | **Value **                                           |
-+----------------------+------------------------------------------------------+
-| Mysql\_user          | root                                                 |
-+----------------------+------------------------------------------------------+
-| Mysql\_password      | nutanix/4u                                           |
-+----------------------+------------------------------------------------------+
-| Database\_name       | training                                             |
-+----------------------+------------------------------------------------------+
-
-Setup the variables as specified in the table above.
 
 **Adding A DB Service**
 
