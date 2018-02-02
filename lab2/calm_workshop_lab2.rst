@@ -48,11 +48,15 @@ After the import of a blueprint all credentials are missing! This is needed to a
 
 5. Click on the Service **Ansible Galaxy **
 
-6. Scroll down on the right side and Click on **Image ** and choose "Centos 7 Cloud Image - 1711"
+6. Change the VM name to "CentOS_CI_<<yourName>>"
 
-7. Scroll down and Click on **NIC ** and choose "training" as the network
+7. Scroll down on the right side and Click on **Image ** and choose "Centos 7 Cloud Image - 1711"
 
-5. Save the blueprint
+|image19|
+
+8. Scroll down and Click on **NIC ** and choose "training" as the network
+
+9. Save the blueprint
 
 **Part 3: Launching the Blueprint**
 ***********************************
