@@ -12,7 +12,7 @@ What we’re going to do here is to import a blueprint to showcase an integratio
 with Ansible Galaxy (pull mode)
 
 
-**Part 1: Import blueprint from https://github.com/calm-marketplace/NextOnTour2018/blob/master/lab2/Ansible%20Galaxy%20ThomasF.json **
+**Part 1: Import blueprint from https://github.com/calm-marketplace/NextOnTour2018/blob/master/lab2/ansible-galaxy-ThomasFindelkind.json **
 *****************************************
 
 1. Download the blueprint
